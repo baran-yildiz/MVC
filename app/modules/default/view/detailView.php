@@ -1,0 +1,1 @@
+Detay sayfası View Görünümü
